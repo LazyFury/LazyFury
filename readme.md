@@ -8,10 +8,6 @@ console.log("hello world!")
 fmt.Printf("hello world!")
 ```
 
-```python
-print("hello world!")
-```
-
 ```dart
 print('hello world!')
 ```
